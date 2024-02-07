@@ -1,1 +1,1 @@
-# Stock-Value-Prediction-with-Machine-Learning
+# Predicting-Stock-Market-with-Machine-Learning
